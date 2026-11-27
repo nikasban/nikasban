@@ -5,7 +5,7 @@
 - ❤️ Arch / NixOS fan (still on windows 11 btw)
 
 - 🕑 spent more hours in chatgpt than in vs code
-- 
+
 - 🆒 frequently practicing on CodeForces
 
 - 🤖 currently learning something about AIs and ML
