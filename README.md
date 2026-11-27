@@ -5,7 +5,11 @@
 - ❤️ Arch / NixOS fan (still on windows 11 btw)
 
 - 🕑 spent more hours in chatgpt than in vs code
+- 
 - 🆒 frequently practicing on CodeForces
+
+- 🤖 currently learning something about AIs and ML
+
 - 👍 vibik shmibik / normik kombikormik
 <!--
 **nikasban/nikasban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
