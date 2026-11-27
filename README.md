@@ -1,4 +1,4 @@
-## ___***not even junior, just an enthusiast***___
+## ___***not even junior, just someone who enjoys programming***___
 
 - 💻 C++ / Python developer
 
