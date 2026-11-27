@@ -1,5 +1,12 @@
-## Hi there 👋
+## ___***not even junior, just an enthusiast***___
 
+- 💻 C++ / Python developer
+
+- ❤️ Arch / NixOS fan (still on windows 11 btw)
+
+- 🕑 spent more hours in chatgpt than in vs code
+- 🆒 frequently practicing on CodeForces
+- 👍 vibik shmibik / normik kombikormik
 <!--
 **nikasban/nikasban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
